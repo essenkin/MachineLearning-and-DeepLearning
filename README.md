@@ -1,6 +1,9 @@
 Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications with TEXAS McCombs. November 2023 - August 2024
 Capstone projects:
 
+
+Hackathon with 1st position
+
 APR 2024, Course: Advanced Machine Learning Analyze the data and come up with a predictive model to determine if a customer will leave the credit card services or not and the reason behind it.
 
 MAR 2024, Course: Machine Learning Analyze the data provided and build a predictive model that will help to identify the customers of a bank who have a higher probability of purchasing a loan.
